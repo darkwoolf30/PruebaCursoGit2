@@ -1,9 +1,0 @@
-linea 1
-<<<<<<< HEAD
-linea 2
-linea 3
-linea 4
-linea 5
-=======
-linea 2
->>>>>>> parent of cad3564 (agregando archivo4 linea3)
